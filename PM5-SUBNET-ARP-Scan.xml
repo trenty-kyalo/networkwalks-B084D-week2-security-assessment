@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="file:///usr/share/nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn -n -PR 192.168.100.0/24" profile_name="" scanner="nmap" start="1794475087" startstr="Thu Nov 12 12:18:07 2026" version="7.991" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.991 ( https://nmap.org ) at 2026-11-12 12:18 +0300
+Nmap scan report for 192.168.100.1
+Host is up (0.017s latency).
+MAC Address: C8:1F:BE:3A:B4:A7 (Huawei Technologies)
+Nmap scan report for 192.168.100.4
+Host is up (0.035s latency).
+MAC Address: C8:3A:35:EF:72:F8 (Tenda Technology)
+Nmap scan report for 192.168.100.230
+Host is up (0.016s latency).
+MAC Address: 44:91:7C:A9:B2:5F (HMD Global Oy)
+Nmap scan report for 192.168.100.251
+Host is up (0.16s latency).
+MAC Address: AA:14:2B:40:E6:23 (Unknown)
+Nmap scan report for 192.168.100.53
+Host is up.
+Nmap done: 256 IP addresses (5 hosts up) scanned in 40.54 seconds
+</output><host comment=""><status state="up"></status><address addr="192.168.100.1" vendor="" addrtype="ipv4"></address><address addr="C8:1F:BE:3A:B4:A7" vendor="Huawei Technologies" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.100.4" vendor="" addrtype="ipv4"></address><address addr="C8:3A:35:EF:72:F8" vendor="Tenda Technology" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.100.230" vendor="" addrtype="ipv4"></address><address addr="44:91:7C:A9:B2:5F" vendor="HMD Global Oy" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.100.251" vendor="" addrtype="ipv4"></address><address addr="AA:14:2B:40:E6:23" vendor="" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.100.53" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><runstats><finished time="1794475128" timestr="Thu Nov 12 12:18:48 2026"></finished><hosts up="5" down="251" total="256"></hosts></runstats></nmaprun>
