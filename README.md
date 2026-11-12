@@ -38,27 +38,6 @@ Tools used:
 
 The module involved identifying active devices on my local Wi-Fi network, examining discovered hosts, and generating a network topology diagram.
 
-## Repository Structure
-
-```text
-networkwalks-week2-security-assessment/
-│
-├── PM1/
-│   ├── PM1-T1-whois.txt
-│   ├── screenshots/
-│   └── PM1-Report.docx
-│
-├── PM5/
-│   ├── PM5-SUBNET-ARP-Scan.xml
-│   ├── pm5-topology.pdf
-│   ├── topology.png
-│   ├── screenshots/
-│   └── PM5-Report.docx
-│
-└── README.md
-```
-
-*The folder structure above is a suggested organization for the submitted evidence.*
 
 ## Key Learning Outcomes
 
